@@ -3,3 +3,5 @@ git push - it is used to to push the changes to the web browser git ub page wher
 git pull - it is used to pull the changes which are made onto the repository from the github profile website to the local machine where the repository is saved.
 git commit -m "" - it is used to commit the changes to the repository in the local machine and we have to enter the comment for the commit in the aporshtrophies after the git commit -m. for it to execut.
 git add - it is used to add a file to the repository in the local machine which is created in the command prompt by using commands such as cat or touch. these files can be added to the main branch with the help of the git add command.
+
+
